@@ -6,9 +6,11 @@
       "Org": "trisha.cba1722@ict.gnu.ac.in",
       "Space": "dev"
     },
-    "Name": "trisha-do",
-    "Instrumentation": {}
+    "Name": "demodoi",
+    "Instrumentation": {
+      "domain": "eu-gb.mybluemix.net"
+    }
   },
-  "Path": "",
+  "Path": "manifest.yml",
   "Type": "Cloud Foundry"
 }
